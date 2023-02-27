@@ -1,5 +1,31 @@
 {
   "dependencies": {
+    "init": "^0.1.2",
     "inquirer": "^8.2.4"
-  }
+  },
+  "name": "team-profile-generator",
+  "description": "build a Node.js command-line application that takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "devDependencies": {
+    "jest": "^29.4.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmgirardi/Team-Profile-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pmgirardi/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/pmgirardi/Team-Profile-Generator#readme"
 }
