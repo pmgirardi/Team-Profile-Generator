@@ -13,7 +13,7 @@
   
   * [Questions](#questions)
   ## Installation Instructions
-  Clone the repository, navigate to main directory and run npm i to install inquirer and npm i jest to install jest to testing.
+  Clone the repository, navigate to main directory and run npm i to install inquirer and npm i jest to install jest for testing.
   ## Usage
   Run application by typing into command line 'node index.js' and enter in each prompt information for each team member
 
